@@ -3,6 +3,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+If have referenced this tutorial to build this:
+https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc#.u9zudbule
+
+Also using react-router-dom:
+https://reacttraining.com/react-router/web/
+
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
