@@ -7,9 +7,9 @@ import {
   Switch
 } from 'react-router-dom'
 
-import App from './App';
-import NotFound from "./NotFound";
-import Test from "./Test";
+import Home from './Pages/home/home';
+import NotFound from "./Pages/404/404";
+import About from "./Pages/about/about";
 
 import './index.css';
 
@@ -17,8 +17,8 @@ const Root = () => {
     return(
         <Router>
             <Switch>
-                <Route exact path="/" component={App} />
-                <Route path="/test/" component={Test} />
+                <Route exact path="/" component={Home} />
+                <Route path="/about/" component={About} />
                 <Route component={NotFound} />
             </Switch>
         </Router>
